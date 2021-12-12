@@ -28,9 +28,10 @@ PyPi: https://pypi.org/project/phenomenal/
    my.company = 'phenomenal'
    my.hobby = ['Youtuber','Reading','Sleeping']
    print(my.name)
-   my.show_email()
-   my.show_myart()
-   my.show_hobby()
+   my.Show_email()
+   my.Show_myart()
+   my.Show_hobby()
+   my.Show_dog()
 
 ພັດທະນາໂດຍ: Hery Phenomenal
 
