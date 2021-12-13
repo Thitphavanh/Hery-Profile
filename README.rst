@@ -37,4 +37,4 @@ PyPi: https://pypi.org/project/phenomenal/
 
 FB: https://www.facebook.com/HeryPhongsavath
 
-YouTube: https://www.youtube.com/ThePhenomenal
+GitHub: https://github.com/Thitphavanh

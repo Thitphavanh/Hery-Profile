@@ -31,6 +31,6 @@ my.Show_dog()
 
 ພັດທະນາໂດຍ: Hery Phenomenal
 
-FB: https://www.facebook.com/HeryPhongsavath
+FB: https: https://www.facebook.com/herytwenty.phonsavad
 
-YouTube: https://www.youtube.com/ThePhenomenal
+GitHub: https://github.com/Thitphavanh
