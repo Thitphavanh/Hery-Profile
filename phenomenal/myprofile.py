@@ -37,6 +37,56 @@ class Profile:
 		           \\ _\\ \\  \\__
 		            (`  \\ '.<,_)))  Maxky
 		          `-\\)))
+'''
+	def __init__(self,name):
+		self.name = name
+		self.company = ''
+		self.hobby = []
+		self.art = art = '''
+
+		   |\
+		  || \
+		  | | |
+		  /.,, /
+		 (    /
+		  \\  (
+		   \\ \
+		    \\_\\__
+		   .'    '--._    ,__,-.,
+		  /          _";__( ,__._7
+		 /           )  \\,=; \\
+		(         _.'     ~/  6,  '-,
+		 \\___    ;        (   _,-.  Y)
+		 (C(/\\.  )        /I-._\\_'-'
+		       \\\\,-,_  /,,/  '-7)
+		          \\  |"\\   \\  `
+		           \\ _\\ \\  \\__
+		            (`  \\ '.<,_)))  Maxky
+		          `-\\)))
+
+		'''
+		self.art2 = '''
+
+
+  		 |\
+		  || \
+		  | | |
+		  /.,, /
+		 (    /
+		  \\  (
+		   \\ \
+		    \\_\\__
+		   .'    '--._    ,__,-.,
+		  /          _";__( ,__._7
+		 /           )  \\,=; \\
+		(         _.'     ~/  6,  '-,
+		 \\___    ;        (   _,-.  Y)
+		 (C(/\\.  )        /I-._\\_'-'
+		       \\\\,-,_  /,,/  '-7)
+		          \\  |"\\   \\  `
+		           \\ _\\ \\  \\__
+		            (`  \\ '.<,_)))  Bobby
+		          `-\\)))
 
 		'''
 
@@ -48,6 +98,9 @@ class Profile:
 
 	def Show_myart(self):
 		print(self.art)
+
+	def Show_dog(self):
+		print(self.art2)
 
 	def Show_hobby(self):
 		if len(self.hobby) != 0:
@@ -66,6 +119,5 @@ if __name__ == '__main__':
 	my.Show_myart()
 	my.Show_email()
 	my.Show_hobby()
+	my.Show_dog()
 	# help(my)
-	
-	
